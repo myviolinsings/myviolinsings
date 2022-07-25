@@ -1,4 +1,4 @@
-### ![glass violin 002](https://user-images.githubusercontent.com/42390999/180815493-fa484dcd-778e-4dea-9fca-4b5c1abdd79a.jpg)
+### Not your typical Gitter!
 - 🔭 I’m currently working on ...installing Ubuntu Touch on Android phone; replacing all MS office products with open source apps.
 - 🌱 I’m currently learning ...markdown ins & outs
 <!--
