@@ -1,12 +1,12 @@
-### Hi there 👋
-
+### ![glass violin 002](https://user-images.githubusercontent.com/42390999/180815493-fa484dcd-778e-4dea-9fca-4b5c1abdd79a.jpg)
+- 🔭 I’m currently working on ...installing Ubuntu Touch on Android phone; replacing all MS office products with open source apps.
+- 🌱 I’m currently learning ...markdown ins & outs
 <!--
 **myviolinsings/myviolinsings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
